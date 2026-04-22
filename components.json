@@ -1,0 +1,14 @@
+{
+  "cpus": [
+    { "name": "Ryzen 5 5600X", "socket": "AM4" },
+    { "name": "Intel i5-12600K", "socket": "LGA1700" }
+  ],
+  "motherboards": [
+    { "name": "ASUS B550", "socket": "AM4", "ramType": "DDR4" },
+    { "name": "MSI Z690", "socket": "LGA1700", "ramType": "DDR5" }
+  ],
+  "ram": [
+    { "name": "Corsair 16GB", "type": "DDR4" },
+    { "name": "G.Skill 16GB", "type": "DDR5" }
+  ]
+}
